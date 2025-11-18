@@ -1,0 +1,6 @@
+node_modules/
+css/tailwind.css
+js/data.js
+.DS_Store
+*.log
+

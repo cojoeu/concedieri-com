@@ -1,0 +1,1076 @@
+{
+  "layoffs": [
+    {
+      "id": 1,
+      "company": "Oracle",
+      "companyRO": "Oracle",
+      "date": "2025-11-03",
+      "employeesAffected": 400,
+      "location": "București",
+      "country": "Romania",
+      "county": "București",
+      "totalEmployees": 4400,
+      "category": "IT",
+      "shared_reason": "Global restructuring, transition to AI solutions and cloud infrastructure",
+      "shared_reasonRO": "Restructurare globală, tranziție către soluții AI și infrastructură cloud",
+      "sources": [
+        {
+          "url": "https://adevarul.ro/economie/oracle-concediaza-aproape-400-de-angajati-din-2484311.html",
+          "name": "Adevărul",
+          "article": "Gigantul american Oracle se pregătește să concedieze aproximativ 400 de angajați din România. Măsura face parte dintr-un val de restructurări la nivel global, pe fondul tranziției accelerate a companiei către soluții bazate pe inteligență artificială.\n\nOracle are în prezent peste 4.400 de angajați în România.\n\nAngajații vizați ar fi fost anunțați pe 3 noiembrie 2025, printr-un mesaj intern marcat \"Highly Confidential\", care avea în CC managerul direct și departamentul de resurse umane, potrivit informațiilor publicate de Profit.ro și confirmate de surse din mediul IT.\n\nDeocamdată, Oracle nu a transmis un comunicat oficial privind numărul exact al persoanelor afectate sau departamentele vizate.",
+          "article_short": "Oracle anunță aproximativ 400 de concedieri în România pe 3 noiembrie 2025, printr-un mesaj intern marcat \"Highly Confidential\". Măsura face parte din strategia globală de reorganizare către soluții AI și cloud.",
+          "article_shortRO": "Oracle anunță aproximativ 400 de concedieri în România pe 3 noiembrie 2025, printr-un mesaj intern marcat \"Highly Confidential\". Măsura face parte din strategia globală de reorganizare către soluții AI și cloud."
+        },
+        {
+          "url": "https://www.romaniajournal.ro/business/oracle-romania-plans-hundreds-of-local-layoffs-sources-report/",
+          "name": "Romania Journal",
+          "article": "Oracle Romania, the local subsidiary of one of the largest providers on the business software market, is preparing layoffs locally. The IT giant is expected to lay off hundreds of employees, according to sources cited by Wall-Street.ro.\n\nOracle is reportedly planning further layoffs at its Romanian branch.\n\nAccording to sources cited by Wall-Street.ro, around 400 employees could be affected.\n\nIt is also worth noting that multiple discussions have appeared on forums suggesting that a collective dismissal process might be underway.\n\nOracle Romania SRL had a turnover of 963.5 million lei (up 35% compared to 2023) and a net profit of 8.6 million lei, a huge increase from 1.8 million in 2023. Oracle Romania ended 2024 with 27 fewer employees compared to the previous year, reaching an average number of employees of 2,091 employees, according to Termene.ro.",
+          "article_short": "Oracle Romania preparing local layoffs, expected to affect hundreds of employees (~400 per sources). Multiple forum discussions suggest collective dismissal process underway. Oracle Romania SRL: 963.5M lei turnover (+35% vs 2023), 8.6M lei net profit (up from 1.8M in 2023). Ended 2024 with 2,091 employees (27 fewer than previous year).",
+          "article_shortRO": "Oracle România pregătește concedieri locale, sute de angajați afectați (~400 per surse). Discuții multiple pe forumuri sugerează proces de concediere colectivă. Oracle Romania SRL: 963,5 milioane lei cifră de afaceri (+35% vs 2023), 8,6 milioane lei profit net (creștere de la 1,8 milioane în 2023). Încheiat 2024 cu 2.091 angajați (cu 27 mai puțini față de anul anterior)."
+        },
+        {
+          "url": "https://zoso.ro/oracle-afara-400-oameni-romania/",
+          "name": "Zoso",
+          "article": "",
+          "article_short": "",
+          "article_shortRO": ""
+        },
+        {
+          "url": "https://newsweek.ro/economie/un-gigant-it-american-face-concedieri-colective-in-romania-circa-400-de-oameni-afectati",
+          "name": "Newsweek România",
+          "article": "În cadrul unui amplu plan de restructurare a activității la nivel global, motivat în parte de tranziția la AI, un gigant IT american face concedieri colective în România.\n\nOracle, cel mai mare producător de software din România şi din lume, și-a redus cu 40% spațiul de activitate din România la sfârșitul lui 2023 și, acum, pe final de 2025, în cadrul unui amplu plan de restructurare a activității la nivel global, concediază circa 400 de angajați din țara noastră.\n\nDeși în luna iunie, Oracle a raportat venituri de 57,4 miliarde de dolari pentru anul fiscal 2025, o creștere de 8%, în septembrie gigantul IT american a demarat un amplu plan de restructurare la nivel global, dând afară sute de angajați din SUA.\n\nPotrivit The Register, Oracle ar urma să concedieze aproape 12.000 de oameni la nivel global.\n\nPlanul de restructurare Oracle a ajuns, se pare, acum, și în România. Potrivit mai multor surse Wall-Street.ro, ar fi vorba de circa 400 de persoane care ar urma să fie disponibilizate.\n\nAngajații Oracle România ar fi primit o notificare de informare generală cu privire la acest proces, cât și o invitație la consultări.\n\nOracle Romania a avut o cifră de afaceri de 963,56 milioane de lei în 2024, în creștere cu 35,5% față de 2023, cu peste 2.000 de angajați.\n\nProfitul net al companiei a urcat la 1,84 milioane lei în 2024, de la 8,62 milioane de lei în 2023.",
+          "article_short": "Oracle anunță ~400 concedieri colective în România, parte din plan global de restructurare motivat de tranziția la AI. În septembrie 2025, Oracle a demarat restructurare globală (sute de angajați în SUA, potențial ~12.000 global per The Register). Oracle și-a redus cu 40% spațiul în România la sfârșitul 2023. Oracle România: 963,56 milioane lei în 2024 (+35,5%), profit 1,84 milioane lei (scăzut de la 8,62 milioane în 2023).",
+          "article_shortRO": "Oracle anunță ~400 concedieri colective în România, parte din plan global de restructurare motivat de tranziția la AI. În septembrie 2025, Oracle a demarat restructurare globală (sute de angajați în SUA, potențial ~12.000 global per The Register). Oracle și-a redus cu 40% spațiul în România la sfârșitul 2023. Oracle România: 963,56 milioane lei în 2024 (+35,5%), profit 1,84 milioane lei (scăzut de la 8,62 milioane în 2023)."
+        },
+        {
+          "url": "https://www.thelayoff.com/t/1k8ztmh6s",
+          "name": "TheLayoff",
+          "article": "Forum discussion thread about Oracle layoffs scheduled for November 3rd, 2025. The thread includes employee discussions, concerns, and reactions regarding the planned layoffs in Romania and globally.\n\nKey points from the discussion:\n- Layoff notifications for at least 400 people in Romania were scheduled for Monday, November 3rd\n- This is part of a global wave that started in August/September in US and India, with EMEA (Europe, Middle East, Africa) layoffs happening later due to stronger labor protection laws\n- Romania 10% cut is part of the same 10% global cut which started in August\n- The layoffs are part of Oracle's strategy to invest in AI infrastructure, requiring cost savings through job cuts\n- Discussion mentions that WARN notices are typically published after layoffs have already occurred, with affected employees kept on payroll for 60 days but not working\n- Employees were advised to download payslips, save contacts and needed documents before the notification date\n- The thread includes discussions about the timing, legal processes, and employee morale concerns\n- Multiple anonymous employees confirm the November 3rd date for Romania layoffs\n- Discussion references that this wave affects EMEA regions as part of the ongoing global restructuring",
+          "article_short": "Forum discussion confirming 400 layoffs in Romania on November 3rd, 2025. Part of global 10% cut starting August/September. EMEA layoffs delayed due to labor protection laws. Employees discuss preparation, timing, and concerns.",
+          "article_shortRO": "Discuție pe forum confirmând 400 de concedieri în România pe 3 noiembrie 2025. Parte dintr-o reducere globală de 10% începută în august/septembrie. Concedierile EMEA întârziate din cauza legilor de protecție a muncii. Angajații discută pregătirea, momentul și preocupările."
+        }
+      ],
+      "notes": "Part of global restructuring, transition to AI solutions",
+      "notesRO": "Parte dintr-o restructurare globală, tranziție către soluții bazate pe inteligență artificială",
+      "article": "Gigantul american Oracle se pregătește să concedieze aproximativ 400 de angajați din România. Măsura face parte dintr-un val de restructurări la nivel global, pe fondul tranziției accelerate a companiei către soluții bazate pe inteligență artificială.\n\nOracle are în prezent peste 4.400 de angajați în România. FOTO: arhivă\n\nOracle are în prezent peste 4.400 de angajați în România. FOTO: arhivă\n\nAngajații vizați ar fi fost anunțați pe 3 noiembrie 2025, printr-un mesaj intern marcat \"Highly Confidential\", care avea în CC managerul direct și departamentul de resurse umane, potrivit informațiilor publicate de Profit.ro și confirmate de surse din mediul IT.\n\nDeocamdată, Oracle nu a transmis un comunicat oficial privind numărul exact al persoanelor afectate sau departamentele vizate.\n\nConcedieri globale pe fondul tranziției către AI\n\nValul de disponibilizări din România se înscrie în strategia globală de reorganizare a Oracle, care își reorientează activitatea către infrastructuri cloud și servicii AI. În septembrie 2025, presa internațională relata că mii de angajați au fost concediați în SUA, în special în statele Washington și California, iar alte valuri sunt planificate în mai multe regiuni ale lumii.\n\nDeși compania nu a confirmat public aceste măsuri, documente oficiale depuse în SUA arătau o reducere semnificativă a personalului, ca parte a strategiei de modernizare și eficientizare.\n\nOracle România: venituri în creștere, dar profituri care fluctuează\n\nGrupul Oracle are în prezent peste 4.400 de angajați în România, repartizați între Oracle România, Oracle Global Services România și Oracle Sovereign Cloud.\n\nÎn 2024, afacerile totale ale grupului au depășit 1,66 miliarde de lei, în creștere cu 23,2% față de anul anterior.\n\nOracle România a raportat o cifră de afaceri de 963,5 milioane de lei și un profit net de 8,62 milioane de lei, de aproape cinci ori mai mare decât în 2023.\n\nÎn schimb, Oracle Global Services România a înregistrat pierderi de 12,53 milioane de lei, după un profit de 18,34 milioane în 2023.\n\nLa nivel global, veniturile Oracle au ajuns la 55,78 miliarde de dolari în anul fiscal încheiat la 28 februarie 2025, marcând o creștere de 6,23%.\n\nNu este prima dată când Oracle face disponibilizări în România. În 2023, compania a redus deja o parte din personal, tot în contextul restructurărilor internaționale.",
+      "article_short": "Oracle anunță aproximativ 400 de concedieri în România pe 3 noiembrie 2025, printr-un mesaj intern marcat \"Highly Confidential\". Măsura face parte din strategia globală de reorganizare către soluții AI și cloud. În septembrie 2025, mii de angajați au fost concediați în SUA (Washington, California). Grupul Oracle are peste 4.400 de angajați în România, iar afacerile totale au depășit 1,66 miliarde de lei în 2024 (+23,2%). Oracle România a raportat profit de 8,62 milioane de lei, în timp ce Oracle Global Services România a înregistrat pierderi de 12,53 milioane. Nu este prima dată când Oracle face disponibilizări în România - compania a redus deja personal în 2023.",
+      "article_shortRO": "Oracle anunță aproximativ 400 de concedieri în România pe 3 noiembrie 2025, printr-un mesaj intern marcat \"Highly Confidential\". Măsura face parte din strategia globală de reorganizare către soluții AI și cloud. În septembrie 2025, mii de angajați au fost concediați în SUA (Washington, California). Grupul Oracle are peste 4.400 de angajați în România, iar afacerile totale au depășit 1,66 miliarde de lei în 2024 (+23,2%). Oracle România a raportat profit de 8,62 milioane de lei, în timp ce Oracle Global Services România a înregistrat pierderi de 12,53 milioane. Nu este prima dată când Oracle face disponibilizări în România - compania a redus deja personal în 2023.",
+      "compensation": {
+        "severancePay": true,
+        "severanceMonths": 3,
+        "bonusPackage": true,
+        "bonusAmount": "1 month salary",
+        "bonusAmountRO": "1 salariu",
+        "support": true,
+        "supportDetails": "Outplacement services, career counseling",
+        "supportDetailsRO": "Servicii de outplacement, consiliere carieră"
+      }
+    },
+    {
+      "id": 2,
+      "company": "Oracle",
+      "companyRO": "Oracle",
+      "date": "2025-01-15",
+      "employeesAffected": 500,
+      "location": "București",
+      "country": "Romania",
+      "county": "București",
+      "category": "IT",
+      "sources": [],
+      "notes": "Planned local reductions as part of global efficiency measures; affects IT services, adding to sector's 1,800+ cuts from major tech companies",
+      "notesRO": "Reduceri planificate locale ca parte din măsuri de eficiență globală; afectează servicii IT, adăugându-se la peste 1.800 de concedieri din companiile tech majore"
+    },
+    {
+      "id": 3,
+      "company": "Complexul Energetic Oltenia",
+      "companyRO": "Complexul Energetic Oltenia",
+      "date": "2020-01-01",
+      "employeesAffected": 5000,
+      "location": "Oltenia",
+      "country": "Romania",
+      "category": "Energy",
+      "sources": [
+        {
+          "url": "https://www.romania-insider.com/romanian-energy-producer-lay-off-5000-employees-2020",
+          "name": "Romania Insider",
+          "article": "Romanian state-owned energy producer Complexul Energetic Oltenia will lay off about 5,000 employees by 2020 through voluntary leaves or retirement, according to sources from the Energy Ministry, cited by local Agerpres.\n\nThe layoffs are part of the plan to streamline the company's activity. About 2,000 employees will leave this year.\n\nThe producer currently has 15,168 employees. About 1,000 people can retire until end of 2019, said the company's spokesperson Elena Zamfir.\n\nThe company posted total debts of EUR 375 million in the last two years, and a profit of EUR 32 million in the first quarter of this year.",
+          "article_short": "Complexul Energetic Oltenia to lay off ~5,000 employees by 2020 via voluntary leaves/retirement. Part of streamlining plan. ~2,000 leaving in 2016. Company had 15,168 employees; ~1,000 eligible for retirement by end of 2019. Total debts EUR 375M (last 2 years), profit EUR 32M (Q1 2016).",
+          "article_shortRO": "Complexul Energetic Oltenia va concedia ~5.000 angajați până în 2020 prin plecări voluntare/pensionări. Parte din plan de optimizare. ~2.000 plecări în 2016. Compania avea 15.168 angajați; ~1.000 eligibili pentru pensionare până la sfârșitul lui 2019. Datorii totale 375 milioane EUR (ultimii 2 ani), profit 32 milioane EUR (T1 2016)."
+        }
+      ],
+      "notes": "State-owned producer streamlined operations amid debts of EUR 375 million; layoffs via voluntary leaves and retirements, with 2,000 departing in 2016 (pre-period) and 1,000 eligible for retirement by 2019; aimed at efficiency but contributed to sector vulnerabilities during COVID",
+      "notesRO": "Producător de stat a optimizat operațiunile în contextul datoriilor de 375 milioane EUR; concedieri prin plecări voluntare și pensionări, cu 2.000 plecări în 2016 și 1.000 eligibili pentru pensionare până în 2019; vizat eficiența dar a contribuit la vulnerabilitățile sectorului în timpul COVID"
+    },
+    {
+      "id": 4,
+      "company": "Wizz Air",
+      "companyRO": "Wizz Air",
+      "date": "2020-03-01",
+      "employeesAffected": 200,
+      "location": "Romania",
+      "country": "Romania",
+      "category": "Aviation",
+      "sources": [
+        {
+          "url": "https://aviationtoday.in/romania/wizz-airs-decade-long-labor-controversies-with-unfair-layoffs-union-disputes-and-lawsuits/",
+          "name": "Aviation Today",
+          "article": "Wizz Air's legal troubles have accumulated over the years as European courts continue to side with employees and unions in a series of labor rights disputes dating back more than a decade. In one of the most recent rulings, a Romanian court decided that Wizz Air's COVID-era layoffs violated collective dismissal rules and discriminated against certain employees. Similarly, a 2019 decision by Romania's Supreme Court confirmed that Wizz Air's 2014 dismissal of 19 Romanian employees shortly after they formed a union was both illegal and discriminatory. These cases underscore long-standing accusations of union-busting tactics by the airline and paint a broader picture of systemic anti-union behavior by the ultra-low-cost carrier.\n\nThe 2020 \"Bad Apples\" Scandal\n\nIn 2020, during the early months of the COVID-19 pandemic, Wizz Air laid off around 1,000 pilots and cabin crew. Initially, the company attributed these layoffs to financial pressures caused by the global health crisis. However, a leaked audio recording soon revealed a far more troubling rationale. In the recording, then Head of Flight Operations Darwin Triggs instructed managers to compile a list of employees to be dismissed, prioritizing those who had taken sick leave or were otherwise seen as difficult. He labeled these individuals as \"bad apples.\"\n\nThe backlash was swift. Critics accused Wizz Air of punishing employees for exercising their legal rights, such as calling in sick or raising concerns. An internal investigation was launched, and by April 2021, Triggs had resigned. Although the recording could not be used as legal evidence, it painted a damning picture of the airline's internal decision-making and added weight to long-standing accusations of labor rights abuses.\n\nCourt Victories and Union Pushback\n\nIn response to these dismissals, several former Wizz Air pilots filed lawsuits with the support of FPU Romania, a local union representing pilots and cabin crew. In April 2021, a Romanian court ruled that Wizz Air had violated collective dismissal procedures and ordered the reinstatement of four pilots and ten cabin crew members. The court found that the airline had failed to follow proper labor laws during the layoffs. Separately, in July 2022, the Romanian Anti-Discrimination Council fined Wizz Air for discriminating against Italian pilots based in Romania, citing the disproportionate impact of the layoffs on foreign staff and the lack of transparent criteria.\n\nA Pattern of Union Suppression\n\nSince 2014, Wizz Air has repeatedly been accused of targeting unionized staff. In that year, 19 Romanian workers were fired shortly after they formed a union, prompting a years-long legal fight that culminated in a 2019 Supreme Court ruling against the airline. In 2020, the company dismissed four union leaders in Ukraine. In 2021, Wizz Air informed Italian authorities that it would operate in Italy without engaging with unions, a move widely condemned by labor groups.\n\nIn Norway, the airline's refusal to enter collective bargaining agreements sparked boycotts and political backlash, which eventually forced Wizz Air to exit the market altogether. Meanwhile, determined unions like FPU Romania have continued to challenge the company in court, winning cases related to unfair dismissals, unpaid leave, and unsafe working conditions.\n\nLegal Losses Across Europe\n\nWizz Air has faced legal defeats in several European countries. In Bulgaria, courts ruled in favor of employees in matters such as contract legality and vacation pay. In Hungary, legal proceedings are ongoing, accusing the airline of miscalculating paid leave for over 15 years.\n\nOne notable case involves a flight attendant who was dismissed after reporting toxic fumes onboard. FPU Romania is also defending itself in Budapest against a lawsuit filed by Wizz Air for alleged copyright infringement. The airline lost the case and was ordered to pay legal costs.\n\nDelayed Justice, Small Penalties\n\nThough courts have repeatedly ruled against Wizz Air, the company often appeals, dragging these cases out for years. Critics argue that this strategy is designed to exhaust plaintiffs and avoid accountability.\n\nFinancial and Reputational Consequences\n\nIn 2022, Denmark's AkademikerPension fund divested from Wizz Air, citing labor rights violations. The $23 billion pension fund joined 14 other investors in demanding that the airline allow employees to unionize freely. The company also scored poorly in a 2024 pilot survey of 50 European airlines, ranking 44th and earning the label \"Social Misfit.\"\n\nCurrent Outlook and What's Next\n\nAs of 2025, Wizz Air remains embroiled in legal and reputational turmoil stemming from its past labor practices. While the airline continues to expand routes and maintain strong financial performance, it faces ongoing scrutiny from European courts, unions, and human rights advocates. The pending appeal before Romania's Supreme Court could mark its fourth major legal defeat in the country. Meanwhile, labor organizations are urging EU regulators to take a closer look at systemic violations, including unsafe work pressures like \"Captain's Discretion\" abuse and retaliation against whistleblowers.\n\nAdding to its challenges, Wizz Air has recently come under fire for allegedly blocking former employees from being rehired through partner companies—an unofficial blacklisting practice that labor advocates claim is aimed at silencing dissent. Furthermore, the airline's safety culture has drawn concern, with reports of operational decisions allegedly compromising flight crew rest and safety protocols.\n\nDespite the mounting pressure, Wizz Air has yet to publicly acknowledge any need for policy reform or reconciliation with labor groups. Whether these legal defeats will eventually force the company to overhaul its labor practices remains to be seen.",
+          "article_short": "Wizz Air's decade-long labor controversies: COVID-era layoffs (~1,000 pilots/crew in 2020) ruled illegal by Romanian courts. \"Bad Apples\" scandal: leaked audio revealed management targeting staff who took sick leave. 2019 Supreme Court: 2014 dismissal of 19 unionizing employees illegal. Courts ordered reinstatements, fines for discrimination. Legal defeats in Romania, Ukraine, Bulgaria, Hungary. 2022: Denmark's AkademikerPension divested. 2024: Ranked 44th/50 European airlines. Pattern of anti-union practices, delayed appeals, minimal penalties.",
+          "article_shortRO": "Controversele Wizz Air de peste un deceniu: concedierile din perioada COVID (~1.000 piloți/echipaj în 2020) declarate ilegale de instanțele române. Scandalul \"Bad Apples\": înregistrare audio a dezvăluit că managementul viza angajații care au luat concediu medical. 2019 Curtea Supremă: concedierea a 19 angajați care s-au organizat sindical în 2014 ilegală. Instanțe au ordonat reintegrări, amenzi pentru discriminare. Înfrângeri legale în România, Ucraina, Bulgaria, Ungaria. 2022: AkademikerPension din Danemarca a divestat. 2024: Clasat pe poziția 44/50 companii aeriene europene. Model de practici anti-sindicale, apeluri întârziate, penalități minime."
+        },
+        {
+          "url": "https://x.com/_aviationtoday/status/1914218232246079833",
+          "name": "Aviation Today (Twitter)"
+        }
+      ],
+      "notes": "COVID-era unfair dismissals ruled illegal by courts; part of broader labor disputes, including a 2019 Supreme Court verdict on 19 unionizing employees; affected pilots and crew amid pandemic furloughs and reduced operations",
+      "notesRO": "Concedieri nejuste din perioada COVID declarate ilegale de instanțe; parte din dispute mai largi de muncă, inclusiv un verdict al Curții Supreme din 2019 privind 19 angajați care s-au organizat sindical; afectați piloți și echipaj în timpul concediilor tehnice și operațiuni reduse"
+    },
+    {
+      "id": 5,
+      "company": "Various Companies",
+      "companyRO": "Diverse Companii",
+      "date": "2020-10-01",
+      "employeesAffected": 23976,
+      "location": "Romania",
+      "country": "Romania",
+      "category": "Multiple",
+      "sources": [
+        {
+          "url": "https://www.wall-street.ro/articol/English-Version/64281/more-than-250-romanian-companies-will-layoff-23-976-employees-by-october-official-says.html",
+          "name": "Wall-Street",
+          "article": "Romania's labor force agency ANOFM received notifications from 252 companies that plan to discharge 23,976 people in the period May-October, most of them working in the equipment and car making industry, NewsIn informs.\n\nSome 294 companies announced ANOFM last month that they could dismiss 21,656 people in the period April-October.\n\nMost people to be fired work in the equipment and car engineering (2,548), but also in the textile industry (2,098) or car industry (1,840).\n\nAs many as 24 companies from Bucharest notified ANOFM about dismissing 4,691 people, of which 2,132 from the capital and the rest from other units countrywide. Companies from Timis County (15), Arad (12), Brasov (12) or Cluj (12) also announced their intention to reduce headcount.\n\nAbout 90 percent of the employees that could lose jobs work in the private sector, some 2,158 for state-owned companies and 265 for mixed companies.\n\nThe number of lay-offs announced for 2009 lowered from 31,871 in January to 21,581 in February, hiked to 25,509 in March and halved to 13,193 in April.\n\nThe number of unemployed rose by 4,120 in April to the highest level of the past three years of 517,741, close to the Labor Ministry's estimates on the number of jobless people at the end of the year, data from ANOFM show.\n\nThe International Monetary Fund (IMF) estimates the number of jobless people will reach 800,000 at year-end, while the Forecast Commission CNP bets on only 620,000 unemployed.",
+          "article_short": "ANOFM received notifications from 252 companies planning to discharge 23,976 people (May-October 2020). Most in equipment/car engineering (2,548), textile (2,098), car industry (1,840). Bucharest: 24 companies, 4,691 people (2,132 local). 90% private sector. Unemployed rose to 517,741 (April), highest in 3 years. IMF estimates 800,000 unemployed by year-end.",
+          "article_shortRO": "ANOFM a primit notificări de la 252 de companii care planifică să concedieze 23.976 de persoane (mai-octombrie 2020). Majoritatea în echipamente/inginerie auto (2.548), textile (2.098), industrie auto (1.840). București: 24 companii, 4.691 persoane (2.132 locale). 90% sector privat. Șomajul a crescut la 517.741 (aprilie), cel mai mare din ultimii 3 ani. FMI estimează 800.000 șomeri până la sfârșitul anului."
+        }
+      ],
+      "notes": "Over 250 companies notified ANOFM of planned dismissals by October 2020; hardest hit in Bucharest (4,691, including 2,132 local); driven by COVID-19 economic shutdowns, with many in manufacturing and retail",
+      "notesRO": "Peste 250 de companii au notificat ANOFM despre concedieri planificate până în octombrie 2020; cel mai afectat București (4.691, inclusiv 2.132 local); cauzate de închiderile economice COVID-19, cu multe în producție și retail"
+    },
+    {
+      "id": 6,
+      "company": "Electrolux",
+      "companyRO": "Electrolux",
+      "date": "2022-01-15",
+      "employeesAffected": 300,
+      "location": "Satu Mare",
+      "country": "Romania",
+      "county": "Satu Mare",
+      "category": "Manufacturing",
+      "sources": [
+        {
+          "url": "https://www.romania-insider.com/electrolux-layoffs-satu-mare-jan-2022",
+          "name": "Romania Insider",
+          "article": "Appliance manufacturer Electrolux will lay off part of the employees working at its cooker factory in Satu Mare, in northern Romania, according to an announcement from the Satu Mare Prefecture.\n\nThe layoffs come as the demand dropped following the war in Ukraine. An important number of orders from Ukraine and Russia were lost starting March 2022, according to the same announcement.\n\nElectrolux opened in the fall of 2022 a new production line at its plant in Satu Mare, allowing the company to reach a production capacity of 1.3 million units, Ziarul Financiar reported.\n\nThe plant in northern Romania was taken over by Electrolux in 1997. At the time, it had 2,300 employees, according to ZF data.",
+          "article_short": "Electrolux to lay off part of employees at Satu Mare cooker factory. Layoffs due to demand drop following war in Ukraine. Important orders from Ukraine and Russia lost starting March 2022. Plant opened new production line (fall 2022), capacity 1.3M units. Plant taken over in 1997, had 2,300 employees at that time.",
+          "article_shortRO": "Electrolux va concedia o parte din angajați la fabrica de aragazuri din Satu Mare. Concedierile cauzate de scăderea cererii după războiul din Ucraina. Ordere importante din Ucraina și Rusia pierdute începând cu martie 2022. Fabrica a deschis linie de producție nouă (toamna 2022), capacitate 1,3M unități. Fabrica preluată în 1997, avea 2.300 angajați la acea dată."
+        }
+      ],
+      "notes": "Reductions at Satu Mare cooker factory amid supply chain issues and global downturn; part of broader manufacturing contraction during post-COVID recovery",
+      "notesRO": "Reduceri la fabrica de aragazuri din Satu Mare în contextul problemelor lanțului de aprovizionare și declinului global; parte din contracția mai largă a producției în timpul recuperării post-COVID"
+    },
+    {
+      "id": 7,
+      "company": "Amazon",
+      "companyRO": "Amazon",
+      "date": "2023-03-01",
+      "employeesAffected": 464,
+      "location": "București",
+      "country": "Romania",
+      "county": "București",
+      "category": "IT",
+      "isPotential": false,
+      "sources": [
+        {
+          "url": "https://www.romania-insider.com/amazon-layoffs-development-centers-romania-2023",
+          "name": "Romania Insider",
+          "article": "US tech giant Amazon (NASDAQ: AMZN) laid off 464 employees at its software development centers in Romania in 2023, according to official data reported by its local subsidiary Amazon Development Center SRL to the Finance Ministry. The cuts represented over 10% of the company's local workforce. Even after the layoffs in 2023, Amazon remains one of the biggest tech employers in Romania, with over 3,700 local employees.\n\nThe downsizing of Amazon's Romanian development centers came amid significant workforce restructuring reported by major international tech companies in 2023. Starting in 2022 and throughout 2023, Amazon laid off 27,000 employees. In January 2024, the group announced further job cuts at its Prime Video, MGM Studios, and Twitch units, according to CNBC.\n\nRumors about layoffs carried out by big international tech companies in Romania have been circulating in the market since early 2023, but the financial report filed by Amazon Development Center SRL is the first official confirmation in this sense.\n\nIasi-based Amazon Development Center SRL reported an average number of 3,770 employees for 2023, down from 4,234 in 2022.\n\nAmazon opened its Development Center in Iasi – the company's first R&D site in Eastern Europe – in 2005. The technology teams in Iasi have been part of Amazon's innovation efforts across a broad range of areas, including product safety, compliance, cloud computing, machine learning, and information security.\n\nIn 2017, Amazon opened another development center in Bucharest, home to Speech and Language Solutions for Alexa, Alexa Product Testing, and Amazon Web Services (AWS) teams working on key technologies for the Elastic Cloud Computing (EC2) service.\n\nIn June 2023, the company inaugurated its third local office in Timisoara, hosting Ring, Product Safety & Compliance, Global Solutions & Risk Compliance teams.\n\nIn April 2024, Amazon consolidated its presence in Iasi through the opening of a new 4,500 sqm office in the Palas Campus, an event attended by Romanian Prime Minister Nicolae Ciucă, U.S. Ambassador to Romania Kathleen Ann Kavalec, and Amazon top executives.\n\nThe layoffs reported by Amazon in Romania in 2023 came after a rapid expansion of the group's local operations in the previous years. Between 2017 and 2022, Amazon added almost 3,400 employees to its Romanian development centers while the turnover of its local subsidiary went up from EUR 33 mln to EUR 125 mln, official data shows.\n\nThe turnover of Amazon Development Center SRL went up by another 13% in 2023, to EUR 141 mln but the company also reported losses of EUR 10.5 mln, according to data from the Finance Ministry.",
+          "article_short": "Amazon laid off 464 employees at Romanian development centers in 2023 (over 10% of local workforce). Still 3,700+ employees after cuts. Part of global restructuring: 27,000 laid off 2022-2023. Iasi: 3,770 employees (2023), down from 4,234 (2022). History: Iasi 2005, Bucharest 2017, Timisoara June 2023. 2017-2022: +3,400 employees, turnover EUR 33M→125M. 2023: turnover EUR 141M (+13%), losses EUR 10.5M.",
+          "article_shortRO": "Amazon a concediat 464 angajați la centrele de dezvoltare din România în 2023 (peste 10% din forța de muncă locală). Rămân peste 3.700 angajați după reducere. Parte din restructurare globală: 27.000 concediați 2022-2023. Iași: 3.770 angajați (2023), scădere de la 4.234 (2022). Istoric: Iași 2005, București 2017, Timișoara iunie 2023. 2017-2022: +3.400 angajați, cifră afaceri 33M→125M EUR. 2023: cifră afaceri 141M EUR (+13%), pierderi 10,5M EUR."
+        }
+      ],
+      "notes": "Cuts at development centers as part of global restructuring; focused on IT roles, contributing to talent surplus in Romania's tech market",
+      "notesRO": "Reduceri la centrele de dezvoltare ca parte din restructurare globală; concentrat pe roluri IT, contribuind la surplusul de talente pe piața tech din România"
+    },
+    {
+      "id": 8,
+      "company": "Endava",
+      "companyRO": "Endava",
+      "date": "2023-06-01",
+      "employeesAffected": 216,
+      "location": "Romania",
+      "country": "Romania",
+      "category": "IT",
+      "sources": [
+        {
+          "url": "https://www.linkedin.com/pulse/romanias-paradox-thousands-laid-off-tech-funding-build-chis-raaje",
+          "name": "LinkedIn"
+        }
+      ],
+      "notes": "Workforce dropped from 4,588 (2022) to 4,372 (2023), net reduction of 216 employees; tied to global tech wave, affecting software engineers; offset somewhat by new hires but highlighted market paradox",
+      "notesRO": "Forța de muncă a scăzut de la 4.588 (2022) la 4.372 (2023), reducere netă de 216 angajați; legat de valul global tech, afectând ingineri software; compensat parțial de angajări noi dar evidențiat paradoxul pieței"
+    },
+    {
+      "id": 28,
+      "company": "Endava",
+      "companyRO": "Endava",
+      "date": "2024-12-31",
+      "employeesAffected": 1000,
+      "location": "Romania",
+      "country": "Romania",
+      "category": "IT",
+      "isPotential": false,
+      "sources": [
+        {
+          "url": "https://www.romania-insider.com/collective-layoffs-romania-april-2025",
+          "name": "Romania Insider"
+        }
+      ],
+      "notes": "Major IT group slashed employment by 1,000 to 3,333 in 2024. Part of broader tech sector restructuring affecting Romanian operations",
+      "notesRO": "Grupul IT major a redus angajările cu 1.000 la 3.333 în 2024. Parte din restructurarea mai largă a sectorului tech care afectează operațiunile din România"
+    },
+    {
+      "id": 9,
+      "company": "Microsoft/Google",
+      "companyRO": "Microsoft/Google",
+      "date": "2023-03-15",
+      "employeesAffected": 500,
+      "location": "Romania",
+      "country": "Romania",
+      "category": "IT",
+      "sources": [
+        {
+          "url": "https://www.romania-insider.com/amazon-layoffs-development-centers-romania-2023",
+          "name": "Romania Insider"
+        },
+        {
+          "url": "https://dorusupeala.ro/concedierile-de-la-google-sfarsitul-sigurantei-psihologice/",
+          "name": "Doru Supeala"
+        }
+      ],
+      "notes": "Romanian operations affected by global cuts; opened opportunities for local talent but contributed to 2023 dip in IT employment from 215,000 to 196,000",
+      "notesRO": "Operațiunile românești afectate de reducerile globale; a deschis oportunități pentru talente locale dar a contribuit la scăderea angajărilor IT din 2023 de la 215.000 la 196.000"
+    },
+    {
+      "id": 10,
+      "company": "Bosch",
+      "companyRO": "Bosch",
+      "date": "2024-01-01",
+      "employeesAffected": 200,
+      "location": "Romania",
+      "country": "Romania",
+      "category": "Automotive",
+      "sources": [
+        {
+          "url": "https://www.oeconomus.hu/en/oecoglobus/the-end-of-the-romanian-miracle-the-impact-of-the-automotive-crisis-on-romanian-foreign-trade-and-labour/",
+          "name": "Oeconomus"
+        }
+      ],
+      "notes": "Reductions over the financial year supplying automotive industry; part of restructuring amid crisis, affecting engineering and production roles",
+      "notesRO": "Reduceri pe parcursul anului financiar furnizând industria auto; parte din restructurare în contextul crizei, afectând roluri de inginerie și producție"
+    },
+    {
+      "id": 11,
+      "company": "Continental",
+      "companyRO": "Continental",
+      "date": "2024-06-01",
+      "employeesAffected": 870,
+      "location": "Timișoara",
+      "country": "Romania",
+      "county": "Timiș",
+      "category": "Automotive",
+      "isPotential": false,
+      "sources": [
+        {
+          "url": "https://www.oeconomus.hu/en/oecoglobus/the-end-of-the-romanian-miracle-the-impact-of-the-automotive-crisis-on-romanian-foreign-trade-and-labour/",
+          "name": "Oeconomus"
+        },
+        {
+          "url": "https://informat.ro/en/current-affairs/continental-cuts-870-jobs-in-romania-due-to-restructuring-64664",
+          "name": "Informat.ro"
+        },
+        {
+          "url": "https://www.linkedin.com/pulse/romanias-paradox-thousands-laid-off-tech-funding-build-chis-raaje",
+          "name": "LinkedIn",
+          "article": "The wave of tech layoffs sweeping through Romania has created an unprecedented situation. Microsoft cut 150-200 positions, Amazon reduced its workforce from 4,234 to 3,424 employees with plans to eliminate another 900 jobs, while Continental announced 870 layoffs across its operations. But these headline numbers tell only part of the story - across the IT sector, from multinational R&D centers to local software companies, thousands more professionals have been quietly let go. Job postings now attract over 100 applicants each, while those with severance packages - often worth 3-6 months of salary - represent a unique moment in Romanian tech history. These are experienced engineers and product managers who've built solutions for global markets, now available with both the skills and initial capital to create startups. Yet with venture capital at just 0.049% of GDP versus the EU average of 0.749%, we're watching a tragic waste: professionals who could build Romania's Shopware or PrestaShop are instead forced into underemployment or preparing to leave the country. The window is closing fast - once severance funds are exhausted or talent emigrates, this opportunity for a startup boom disappears forever.\n\nMajor tech companies shed thousands of Romanian jobs\n\nContinental delivered the single largest blow, cutting 870 positions across multiple locations including 640 from automotive divisions and 230 from its Timișoara operations, citing market challenges in the automotive industry's transformation. The aftermath reveals a tech job market under severe strain. LinkedIn postings now attract over 100 applicants each, according to Economedia's analysis, with professionals lacking university degrees facing particular challenges. While 81% of employers planned recruitment in 2024, 28% simultaneously planned layoffs, creating a paradoxical market dynamic.",
+          "article_short": "Continental cut 870 positions across multiple locations (640 from automotive divisions, 230 from Timișoara), the single largest blow among tech companies. Article discusses broader Romanian tech layoff paradox: thousands laid off, but venture capital at 0.049% of GDP vs EU 0.749%. Tech job market strained: 100+ applicants per posting. Market dynamic: 81% planned recruitment, 28% planned layoffs simultaneously.",
+          "article_shortRO": "Continental a redus 870 poziții în mai multe locații (640 din diviziile auto, 230 din Timișoara), cea mai mare lovitură dintre companiile tech. Articolul discută paradoxul mai larg al concedierilor tech din România: mii de concediați, dar capitalul de risc la 0,049% din PIB vs UE 0,749%. Piața muncii tech tensionată: peste 100 candidați pe post. Dinamică de piață: 81% planificau recrutare, 28% planificau concedieri simultan."
+        }
+      ],
+      "notes": "Cuts across five production units and four engineering centers (e.g., Timișoara); 640 from automotive divisions, 230 from Timișoara; due to market challenges in EV transition and restructuring",
+      "notesRO": "Reduceri la cinci unități de producție și patru centre de inginerie (ex. Timișoara); 640 din diviziile auto, 230 din Timișoara; datorită provocărilor pieței în tranziția către EV și restructurare"
+    },
+    {
+      "id": 12,
+      "company": "Forvia",
+      "companyRO": "Forvia",
+      "date": "2024-12-01",
+      "employeesAffected": 74,
+      "location": "Oradea",
+      "country": "Romania",
+      "county": "Bihor",
+      "category": "Automotive",
+      "sources": [
+        {
+          "url": "https://www.oeconomus.hu/en/oecoglobus/the-end-of-the-romanian-miracle-the-impact-of-the-automotive-crisis-on-romanian-foreign-trade-and-labour/",
+          "name": "Oeconomus"
+        }
+      ],
+      "notes": "Closed technical center in Oradea (December 2024); part of downsizing due to automotive restructuring and reduced demand",
+      "notesRO": "Centru tehnic închis în Oradea (decembrie 2024); parte din reducerea dimensiunilor datorită restructurării auto și cererii reduse"
+    },
+    {
+      "id": 13,
+      "company": "Holmbergs Safety Systems",
+      "companyRO": "Holmbergs Safety Systems",
+      "date": "2024-03-01",
+      "employeesAffected": 353,
+      "location": "Romania",
+      "country": "Romania",
+      "category": "Automotive",
+      "sources": [
+        {
+          "url": "https://www.oeconomus.hu/en/oecoglobus/the-end-of-the-romanian-miracle-the-impact-of-the-automotive-crisis-on-romanian-foreign-trade-and-labour/",
+          "name": "Oeconomus"
+        }
+      ],
+      "notes": "Swedish firm manufacturing child safety products; layoffs amid broader industry crisis and supply chain issues",
+      "notesRO": "Firmă suedeză care produce produse de siguranță pentru copii; concedieri în contextul crizei mai largi a industriei și problemelor lanțului de aprovizionare"
+    },
+    {
+      "id": 14,
+      "company": "Leoni",
+      "companyRO": "Leoni",
+      "date": "2024-05-01",
+      "employeesAffected": 500,
+      "location": "Bistrița",
+      "country": "Romania",
+      "county": "Bistrița-Năsăud",
+      "category": "Automotive",
+      "sources": [
+        {
+          "url": "https://www.romaniajournal.ro/business/major-romanian-auto-cable-manufacturer-lays-off-hundreds/",
+          "name": "Romania Journal"
+        }
+      ],
+      "notes": "Collective layoffs at Bistrița car wiring factory; affected up to 10% of workforce due to reduced orders and industry slowdown",
+      "notesRO": "Concedieri colective la fabrica de cabluri auto din Bistrița; afectat până la 10% din forța de muncă datorită comenzilor reduse și încetinirii industriei"
+    },
+    {
+      "id": 15,
+      "company": "SEBN (Sumitomo Electric Bordnetze)",
+      "companyRO": "SEBN (Sumitomo Electric Bordnetze)",
+      "date": "2024-04-01",
+      "employeesAffected": 676,
+      "location": "Drobeta-Turnu Severin",
+      "country": "Romania",
+      "county": "Mehedinți",
+      "category": "Automotive",
+      "sources": [
+        {
+          "url": "https://www.oeconomus.hu/en/oecoglobus/the-end-of-the-romanian-miracle-the-impact-of-the-automotive-crisis-on-romanian-foreign-trade-and-labour/",
+          "name": "Oeconomus"
+        }
+      ],
+      "notes": "Japanese firm; cuts at Drobeta-Turnu Severin unit amid automotive crisis and restructuring",
+      "notesRO": "Firmă japoneză; reduceri la unitatea din Drobeta-Turnu Severin în contextul crizei auto și restructurării"
+    },
+    {
+      "id": 16,
+      "company": "Textile Industry",
+      "companyRO": "Industria Textilă",
+      "date": "2024-06-01",
+      "employeesAffected": 40000,
+      "location": "Romania",
+      "country": "Romania",
+      "category": "Textile",
+      "sources": [
+        {
+          "url": "https://www.ecotextile.com/2025090359496/radar/romanian-textile-industry-losing-ground-amid-job-losses/",
+          "name": "Ecotextile"
+        }
+      ],
+      "notes": "Decline from 160,000 to 120,000 jobs; caused by EU QR code directives, suspended export programs, and traceability issues; small firms and subcontractors hardest hit, with ongoing losses",
+      "notesRO": "Declin de la 160.000 la 120.000 locuri de muncă; cauzat de directivele UE privind codurile QR, programele de export suspendate și problemele de urmărire; firmele mici și subcontraktorii cel mai afectați, cu pierderi în curs"
+    },
+    {
+      "id": 17,
+      "company": "Amazon Development Center",
+      "companyRO": "Amazon Development Center",
+      "date": "2025-07-01",
+      "employeesAffected": 500,
+      "location": "Iași",
+      "country": "Romania",
+      "county": "Iași",
+      "category": "IT",
+      "isPotential": false,
+      "sources": [
+        {
+          "url": "https://www.romania-insider.com/amazon-development-center-iasi-layoffs-2025",
+          "name": "Romania Insider"
+        }
+      ],
+      "notes": "Amazon Development Center SRL to reportedly cut around 500 jobs. Planned closure of AGI Data Services and reductions in Retail Business Services at Iași center; part of global cost-efficiency; headcount already down from 4,200 (2022) to 3,400 (2024)",
+      "notesRO": "Amazon Development Center SRL ar trebui să reducă aproximativ 500 de locuri de muncă. Închidere planificată a AGI Data Services și reduceri în Retail Business Services la centrul din Iași; parte din eficiența globală a costurilor; efectivul deja scăzut de la 4.200 (2022) la 3.400 (2024)"
+    },
+    {
+      "id": 41,
+      "company": "Amazon Romania",
+      "companyRO": "Amazon România",
+      "date": "2025-01-01",
+      "employeesAffected": 400,
+      "location": "Romania",
+      "country": "Romania",
+      "category": "IT",
+      "isPotential": false,
+      "sources": [
+        {
+          "url": "https://lemonews.com/en/article/amazon-anunta-concedieri-masive-in-romania-afectand-400-de-angajati-pgwgaj",
+          "name": "Lemonews"
+        }
+      ],
+      "notes": "Amazon Romania announced major restructuring affecting approximately 400 employees as part of global cost-efficiency measures",
+      "notesRO": "Amazon România a anunțat o restructurare majoră afectând aproximativ 400 de angajați ca parte din măsuri globale de eficiență a costurilor"
+    },
+    {
+      "id": 18,
+      "company": "Automotive Components Factory (Dej)",
+      "companyRO": "Fabrică Componente Auto (Dej)",
+      "date": "2025-10-01",
+      "employeesAffected": 200,
+      "location": "Dej",
+      "country": "Romania",
+      "county": "Cluj",
+      "category": "Automotive",
+      "sources": [
+        {
+          "url": "https://agroreview.com/en/newsen/romania-records-wave-mass-layoffs/",
+          "name": "Agro Review"
+        }
+      ],
+      "notes": "Local factory in Dej (Cluj County) specializing in components; layoffs starting October 2025 due to decreased demand; part of broader Cluj layoffs exceeding 300 recently",
+      "notesRO": "Fabrică locală din Dej (Județul Cluj) specializată pe componente; concedieri începând din octombrie 2025 datorită cererii scăzute; parte din concedierile mai largi din Cluj depășind 300 recent"
+    },
+    {
+      "id": 19,
+      "company": "Collective Dismissals - January 2025",
+      "companyRO": "Concedieri Colective - Ianuarie 2025",
+      "date": "2025-01-31",
+      "employeesAffected": 2285,
+      "location": "Romania",
+      "country": "Romania",
+      "category": "Multiple",
+      "isPotential": false,
+      "sources": [
+        {
+          "url": "https://www.romania-insider.com/collective-layoffs-romania-april-2025",
+          "name": "Romania Insider"
+        }
+      ],
+      "notes": "Nationwide notifications; sectors include vehicle trade, electronics manufacturing; driven by economic slowdown",
+      "notesRO": "Notificări la nivel național; sectoare includ comerțul de vehicule, producția de electronice; cauzat de încetinirea economică"
+    },
+    {
+      "id": 20,
+      "company": "Collective Dismissals - Mehedinți County",
+      "companyRO": "Concedieri Colective - Județul Mehedinți",
+      "date": "2025-04-30",
+      "employeesAffected": 676,
+      "location": "Drobeta-Turnu Severin",
+      "country": "Romania",
+      "county": "Mehedinți",
+      "category": "Multiple",
+      "isPotential": false,
+      "sources": [
+        {
+          "url": "https://www.romania-insider.com/collective-layoffs-romania-april-2025",
+          "name": "Romania Insider"
+        }
+      ],
+      "notes": "Part of April 2025 collective layoffs affecting 14 counties. Mehedinți county: 676 employees. Fields include manufacturing of electrical/electronic equipment for motor vehicles",
+      "notesRO": "Parte din concedierile colective din aprilie 2025 care au afectat 14 județe. Județul Mehedinți: 676 angajați. Domenii includ producția de echipamente electrice/electronice pentru vehicule"
+    },
+    {
+      "id": 21,
+      "company": "Collective Dismissals - Arad County",
+      "companyRO": "Concedieri Colective - Județul Arad",
+      "date": "2025-04-30",
+      "employeesAffected": 699,
+      "location": "Arad",
+      "country": "Romania",
+      "county": "Arad",
+      "category": "Multiple",
+      "isPotential": false,
+      "sources": [
+        {
+          "url": "https://www.romania-insider.com/collective-layoffs-romania-april-2025",
+          "name": "Romania Insider"
+        }
+      ],
+      "notes": "Part of April 2025 collective layoffs affecting 14 counties. Arad county: 699 employees. Fields include wholesale trade of motor vehicles, manufacturing of electrical/electronic equipment",
+      "notesRO": "Parte din concedierile colective din aprilie 2025 care au afectat 14 județe. Județul Arad: 699 angajați. Domenii includ comerțul cu ridicata de vehicule, producția de echipamente electrice/electronice"
+    },
+    {
+      "id": 22,
+      "company": "Collective Dismissals - Bucharest Municipality",
+      "companyRO": "Concedieri Colective - Municipiul București",
+      "date": "2025-04-30",
+      "employeesAffected": 797,
+      "location": "București",
+      "country": "Romania",
+      "county": "București",
+      "category": "Multiple",
+      "isPotential": false,
+      "sources": [
+        {
+          "url": "https://www.romania-insider.com/collective-layoffs-romania-april-2025",
+          "name": "Romania Insider"
+        }
+      ],
+      "notes": "Part of April 2025 collective layoffs affecting 14 counties. Bucharest Municipality: 797 employees. Fields include telephone intermediation activities, wholesale trade of motor vehicles",
+      "notesRO": "Parte din concedierile colective din aprilie 2025 care au afectat 14 județe. Municipiul București: 797 angajați. Domenii includ activități de intermediere telefonică, comerțul cu ridicata de vehicule"
+    },
+    {
+      "id": 23,
+      "company": "Collective Dismissals - Cluj County",
+      "companyRO": "Concedieri Colective - Județul Cluj",
+      "date": "2025-04-30",
+      "employeesAffected": 530,
+      "location": "Cluj-Napoca",
+      "country": "Romania",
+      "county": "Cluj",
+      "category": "Multiple",
+      "isPotential": false,
+      "sources": [
+        {
+          "url": "https://www.romania-insider.com/collective-layoffs-romania-april-2025",
+          "name": "Romania Insider"
+        }
+      ],
+      "notes": "Part of April 2025 collective layoffs affecting 14 counties. Cluj county: 530 employees. Fields include telephone intermediation activities, manufacturing",
+      "notesRO": "Parte din concedierile colective din aprilie 2025 care au afectat 14 județe. Județul Cluj: 530 angajați. Domenii includ activități de intermediere telefonică, producție"
+    },
+    {
+      "id": 24,
+      "company": "Collective Dismissals - Alba County",
+      "companyRO": "Concedieri Colective - Județul Alba",
+      "date": "2025-04-30",
+      "employeesAffected": 555,
+      "location": "Alba Iulia",
+      "country": "Romania",
+      "county": "Alba",
+      "category": "Multiple",
+      "isPotential": false,
+      "sources": [
+        {
+          "url": "https://www.romania-insider.com/collective-layoffs-romania-april-2025",
+          "name": "Romania Insider"
+        }
+      ],
+      "notes": "Part of April 2025 collective layoffs affecting 14 counties. Alba county: 555 employees. Fields include manufacturing of clothing, manufacturing of electrical/electronic equipment",
+      "notesRO": "Parte din concedierile colective din aprilie 2025 care au afectat 14 județe. Județul Alba: 555 angajați. Domenii includ producția de confecții, producția de echipamente electrice/electronice"
+    },
+    {
+      "id": 25,
+      "company": "Collective Dismissals - Other Counties (April 2025)",
+      "companyRO": "Concedieri Colective - Alte Județe (Aprilie 2025)",
+      "date": "2025-04-30",
+      "employeesAffected": 1093,
+      "location": "Romania",
+      "country": "Romania",
+      "category": "Multiple",
+      "isPotential": false,
+      "sources": [
+        {
+          "url": "https://www.romania-insider.com/collective-layoffs-romania-april-2025",
+          "name": "Romania Insider"
+        }
+      ],
+      "notes": "Remaining employees from other 9 counties in April 2025 collective layoffs (total 4,350 from 14 counties). Fields: wholesale trade of motor vehicles, telephone intermediation, manufacturing of electrical/electronic equipment for motor vehicles, manufacturing of clothing",
+      "notesRO": "Restul angajaților din celelalte 9 județe din concedierile colective din aprilie 2025 (total 4.350 din 14 județe). Domenii: comerțul cu ridicata de vehicule, intermedierea telefoniei, producția de echipamente electrice/electronice pentru vehicule, producția de confecții"
+    },
+    {
+      "id": 26,
+      "company": "Construction Sector",
+      "companyRO": "Sectorul Construcții",
+      "date": "2025-06-01",
+      "employeesAffected": 50000,
+      "location": "Romania",
+      "country": "Romania",
+      "category": "Construction",
+      "isPotential": true,
+      "sources": [
+        {
+          "url": "https://twitter.com/mariandidthis/status/1984573989327458775",
+          "name": "Twitter"
+        }
+      ],
+      "notes": "Due to delays in projects like Anghel Saligny and PNRR; could lead to increased unemployment and reduced spending; 10% of workforce (500,000 total)",
+      "notesRO": "Datorită întârzierilor în proiecte precum Anghel Saligny și PNRR; ar putea duce la creșterea șomajului și reducerea cheltuielilor; 10% din forța de muncă (500.000 total)"
+    },
+    {
+      "id": 27,
+      "company": "Dacia (Renault Group) - Voluntary Resignation Scheme",
+      "companyRO": "Dacia (Grupul Renault) - Program Demisii Voluntare",
+      "date": "2025-03-01",
+      "employeesAffected": 0,
+      "employeesPotential": 500,
+      "location": "Mioveni",
+      "country": "Romania",
+      "county": "Argeș",
+      "category": "Automotive",
+      "isPotential": true,
+      "sources": [
+        {
+          "url": "https://www.romania-insider.com/collective-layoffs-romania-april-2025",
+          "name": "Romania Insider"
+        },
+        {
+          "url": "https://www.oeconomus.hu/en/oecoglobus/the-end-of-the-romanian-miracle-the-impact-of-the-automotive-crisis-on-romanian-foreign-trade-and-labour/",
+          "name": "Oeconomus"
+        }
+      ],
+      "notes": "Voluntary resignation scheme reopened. Employees can leave by agreement, receiving net compensation between RON 24,000 and RON 200,000 (EUR 4,800 to EUR 40,000) depending on seniority. No forced layoffs specified but part of restructuring amid automotive crisis",
+      "notesRO": "Programul de demisii voluntare redeschis. Angajații pot pleca prin acord, primind compensație netă între 24.000 și 200.000 RON (EUR 4.800 și EUR 40.000) în funcție de vechime. Nu sunt specificate concedieri forțate dar parte din restructurare în contextul crizei auto"
+    },
+    {
+      "id": 29,
+      "company": "Industry",
+      "companyRO": "Industrie",
+      "date": "2025-06-30",
+      "employeesAffected": 7000,
+      "location": "Romania",
+      "country": "Romania",
+      "category": "Manufacturing",
+      "isPotential": false,
+      "sources": [
+        {
+          "url": "https://agroreview.com/en/newsen/romania-records-wave-mass-layoffs/",
+          "name": "Agro Review"
+        }
+      ],
+      "notes": "Averaging 1,000/month; automotive hardest hit with production cuts; National Employment Agency data shows rising unemployment; support includes retraining",
+      "notesRO": "Medie de 1.000/lună; industria auto cel mai afectată cu reduceri de producție; datele Agenției Naționale pentru Ocuparea Forței de Muncă arată șomajul în creștere; sprijin include recalificare"
+    },
+    {
+      "id": 30,
+      "company": "Microsoft",
+      "companyRO": "Microsoft",
+      "date": "2025-02-01",
+      "employeesAffected": 175,
+      "location": "București",
+      "country": "Romania",
+      "county": "București",
+      "category": "IT",
+      "isPotential": false,
+      "sources": [
+        {
+          "url": "https://www.linkedin.com/pulse/romanias-paradox-thousands-laid-off-tech-funding-build-chis-raaje",
+          "name": "LinkedIn",
+          "article": "The wave of tech layoffs sweeping through Romania has created an unprecedented situation. Microsoft cut 150-200 positions, Amazon reduced its workforce from 4,234 to 3,424 employees with plans to eliminate another 900 jobs, while Continental announced 870 layoffs across its operations. But these headline numbers tell only part of the story - across the IT sector, from multinational R&D centers to local software companies, thousands more professionals have been quietly let go. Job postings now attract over 100 applicants each, while those with severance packages - often worth 3-6 months of salary - represent a unique moment in Romanian tech history. These are experienced engineers and product managers who've built solutions for global markets, now available with both the skills and initial capital to create startups. Yet with venture capital at just 0.049% of GDP versus the EU average of 0.749%, we're watching a tragic waste: professionals who could build Romania's Shopware or PrestaShop are instead forced into underemployment or preparing to leave the country. The window is closing fast - once severance funds are exhausted or talent emigrates, this opportunity for a startup boom disappears forever.\n\nMajor tech companies shed thousands of Romanian jobs\n\nThe wave of global tech layoffs has hit Romania particularly hard, with three major employers alone cutting over 1,800 positions. Microsoft laid off 150-200 employees in early 2025 as part of its fourth round of global workforce reductions in 18 months, affecting primarily software engineers and project managers at its Bucharest operations. Amazon's Romanian presence has shrunk dramatically from 4,234 employees in 2022 to 3,424 in 2024, with an additional 900 positions planned for elimination through the closure of its AGI Data Services department and reductions in Retail Business Services. Continental delivered the single largest blow, cutting 870 positions across multiple locations including 640 from automotive divisions and 230 from its Timișoara operations, citing market challenges in the automotive industry's transformation.\n\nThe aftermath reveals a tech job market under severe strain. LinkedIn postings now attract over 100 applicants each, according to Economedia's analysis, with professionals lacking university degrees facing particular challenges. While 81% of employers planned recruitment in 2024, 28% simultaneously planned layoffs, creating a paradoxical market dynamic. The lack of comprehensive tracking makes it impossible to determine precisely how many laid-off workers have found new positions domestically versus emigrating, but market observers note increased competition for available roles and salary pressures in certain segments. Romania's favorable tax treatment for IT workers, which helped retain talent for over two decades, was revoked in 2025, likely accelerating the brain drain that has already seen over 300,000 engineers leave since 1990.\n\nStartup ecosystem struggles despite strong technical foundation\n\nRomania's startup ecosystem presents a striking paradox: while the country boasts 212,000 IT specialists and ranks first in Europe for certified tech professionals per capita, its venture capital investment languishes at just 0.049% of GDP, far below neighbors Czech Republic (0.324%) and Poland (0.215%). The ecosystem comprises over 2,500 active startups with a combined enterprise value of €19 billion, including three unicorns: UiPath, eMAG, and MultiverseX. Yet funding has declined sharply from the €882 million peak in 2021 to just €306 million in 2023, with the first half of 2024 showing only €71.7 million across 23 rounds.\n\nThe funding structure reveals critical gaps in the capital stack. Pre-seed and seed rounds account for 68% of all deals but capture only 6.5% of total capital, while the few Series A+ rounds consume 84% of available funding. This creates a \"valley of death\" between initial concept and growth stage that few startups successfully navigate. Major venture capital firms like Early Game Ventures, which raised a €60 million second fund with government backing, and Catalyst Romania with its €50 million fund, are attempting to bridge this gap. The government's Start-Up Nation program offers €50,000 grants to new businesses, but bureaucratic complexity and limited follow-up support reduce its effectiveness.\n\nEuropean Investment Fund programs have committed €400 million through the Recovery Equity Fund, with €175 million already deployed to eight VC funds by 2024. Angel investor networks remain underdeveloped, with TechAngels Romania's 120+ members providing average investments of €25,000-100,000, significantly below the €150,000+ typical in mature ecosystems. The result is a startup ecosystem that produces world-class technical talent and innovative companies but struggles to retain and scale them domestically.\n\nEuropean software giants prove patient capital beats rapid scaling\n\nWhile Romanian startups struggle for funding, successful European software companies demonstrate alternative paths to global success. Shopware, founded in 2001 by 16-year-old Stefan Hamann in rural Germany, bootstrapped for over 20 years before accepting its first external investment of $100 million in 2022. The company now serves 100,000+ e-commerce businesses generating €12 billion in combined revenue, having built market leadership through an open-source community approach and patient organic growth that consistently achieved 30-40% annual expansion.\n\nPrestaShop's journey from a 2005 student project at Paris's EPITECH to powering 300,000+ online stores worldwide followed a similar trajectory. The company raised just $13.4 million across four rounds before its 2021 acquisition by Fortidia, proving that community-first strategies and deep European market understanding can create substantial value without Silicon Valley-style hypergrowth. The platform generates €22 billion in annual sales for its merchants while maintaining its open-source heritage.\n\nThese success stories share common patterns: technical excellence as foundation, bootstrap-first mentality with reinvestment into product development, strong developer communities built before monetization, and strategic use of Europe's regulatory complexity as competitive advantage. JetBrains achieved global developer tool dominance from Prague without external funding, while Romania's own UiPath reached a $35 billion IPO valuation by focusing on enterprise automation. The lesson is clear: European software companies succeed through quality, patience, and community rather than aggressive venture-funded scaling.\n\nRomania offers unique advantages but faces systemic barriers\n\nRomanian tech professionals possess significant advantages for building EU-focused software products. The country's 62% share of international projects demonstrates its integration with Western European markets, while developer rates of $45-63 per hour provide substantial cost advantages over the $92 per hour typical in the US. Romania's strategic location offers same-timezone collaboration with all EU markets and serves as a gateway to emerging economies in the Balkans and Middle East. The workforce's English proficiency ranks 12th globally, facilitating international business development.\n\nYet systemic barriers prevent this potential from translating into a thriving domestic tech economy. Beyond the critical funding shortage, entrepreneurs face 20-day minimum company registration processes, multiple overlapping regulatory requirements, and no legal distinction between tech startups and traditional SMEs. The recent revocation of IT tax exemptions threatens to accelerate brain drain, with 4 million Romanians already living abroad versus 19 million domestically. Banks remain risk-averse toward tech ventures, demanding physical collateral for loans to companies built on intellectual property. While 41 alternative lending startups have emerged to address this gap, they cannot replace institutional venture capital.\n\nThe missed digital transformation opportunities compound these challenges. Romania's e-government penetration of just 15% ranks lowest in Europe, while only 27.7% of citizens possess basic digital skills versus the EU average of 55.6%. The digital economy represents just 6.9% of GDP, and McKinsey estimates that closing this gap could generate €42 billion in economic value by 2025. Despite allocating €4.1 billion for digitalization through the National Recovery and Resilience Plan, implementation remains slow and targets fall below EU ambition levels.\n\nConclusion: From service provider to product creator requires ecosystem transformation\n\nRomania stands at a critical juncture where its world-class technical talent increasingly serves foreign companies while domestic innovation struggles for oxygen. The recent layoffs represent more than individual career disruptions; they symbolize a broader failure to capture value from one of Europe's most skilled tech workforces. While successful European software companies prove that patient, community-focused growth can create global leaders, Romania's ecosystem lacks the patient capital, supportive regulations, and cultural acceptance of entrepreneurial risk necessary for such journeys.\n\nThe fundamental problem remains access to funding. Despite various EU programs and government initiatives announced over the years, Romanian entrepreneurs struggle to access capital at every stage of development. What limited funding mechanisms exist suffer from poor management, bureaucratic complexity, and misalignment with startup needs. Romania's advantages – EU market access, technical excellence, and cost efficiency – remain compelling, but without solving the funding crisis and improving how available resources are deployed, the country risks permanently relegating itself to a service provider role while peers like Poland and Czech Republic build thriving tech economies. The window of opportunity created by these layoffs will close quickly as talented professionals either accept underemployment or seek opportunities elsewhere, taking with them the potential for Romania's digital transformation.",
+          "article_short": "Microsoft cut 150-200 positions in early 2025 (fourth global round in 18 months), affecting software engineers and project managers at Bucharest operations. Article discusses broader Romanian tech layoff paradox: thousands laid off (Microsoft, Amazon, Continental over 1,800 positions), but venture capital at 0.049% of GDP vs EU 0.749%. Tech job market strained: 100+ applicants per posting. Severance packages (3-6 months) could fund startups, but lack of VC funding forces talent emigration. Startup ecosystem struggles despite 212,000 IT specialists. Romania risks permanent service provider role.",
+          "article_shortRO": "Microsoft a redus 150-200 poziții la începutul lui 2025 (a patra rundă globală în 18 luni), afectând ingineri software și manageri de proiect la operațiunile din București. Articolul discută paradoxul mai larg al concedierilor tech din România: mii de concediați (Microsoft, Amazon, Continental peste 1.800 poziții), dar capitalul de risc la 0,049% din PIB vs UE 0,749%. Piața muncii tech tensionată: peste 100 candidați pe post. Pachete compensatorii (3-6 luni) ar putea finanța startup-uri, dar lipsa fondurilor VC forțează emigrarea talentelor. Ecosistemul startup-urilor se luptă în ciuda a 212.000 de specialiști IT. România riscă rol permanent de furnizor de servicii."
+        }
+      ],
+      "notes": "Bucharest operations; software engineers and managers; fourth global round in 18 months, contributing to talent paradox",
+      "notesRO": "Operațiuni București; ingineri software și manageri; a patra rundă globală în 18 luni, contribuind la paradoxul talentelor"
+    },
+    {
+      "id": 31,
+      "company": "OMV Petrom",
+      "companyRO": "OMV Petrom",
+      "date": "2025-01-15",
+      "employeesAffected": 1000,
+      "location": "Romania",
+      "country": "Romania",
+      "category": "Energy",
+      "isPotential": false,
+      "sources": [
+        {
+          "url": "https://twitter.com/DrNeculai/status/1964327397634801781",
+          "name": "Twitter"
+        }
+      ],
+      "notes": "Part of OMV global cuts (2,000 total); Petrom hardest hit amid restructuring; oil/gas sector pressures from energy transition",
+      "notesRO": "Parte din reducerile globale OMV (2.000 total); Petrom cel mai afectat în contextul restructurării; presiuni ale sectorului petrol/gaze din tranziția energetică"
+    },
+    {
+      "id": 32,
+      "company": "Public Sector",
+      "companyRO": "Sector Public",
+      "date": "2025-08-31",
+      "employeesAffected": 43707,
+      "location": "Romania",
+      "country": "Romania",
+      "category": "Gov",
+      "isPotential": false,
+      "sources": [
+        {
+          "url": "https://spotmedia.ro/en/news/social/is-the-romanian-state-slimming-down-over-43000-positions-eliminated-in-eight-months",
+          "name": "Spotmedia"
+        },
+        {
+          "url": "https://tvrinfo.ro/scadere-masiva-in-sectorul-public-43-000-de-posturi-taiate-in-8-luni/",
+          "name": "TVR Info"
+        }
+      ],
+      "notes": "Massive reduction in public sector: 43,707 positions eliminated in first 8 months of 2025 according to Finance Ministry data. Education hardest hit (31,000+ positions), mainly due to termination of fixed-term contracts for auxiliary and teaching staff at end of school year. Other ministries affected: Internal Affairs (-653), National Defense (-57), Finance (-95). Part of broader public administration reform and efficiency plan, amid pressures to reduce budget deficit, sparking strikes",
+      "notesRO": "Scădere masivă în sectorul public: 43.707 de posturi eliminate în primele 8 luni ale anului 2025 conform datelor Ministerului Finanțelor. Educația cel mai afectată (peste 31.000 de posturi), în principal din cauza încetării contractelor pe perioadă determinată ale personalului auxiliar și didactic la finalul anului școlar. Alte ministere afectate: Afaceri Interne (-653), Apărare Națională (-57), Finanțe (-95). Parte dintr-un plan mai amplu de reformă și eficientizare a administrației publice, în contextul presiunilor pentru reducerea deficitului bugetar, declanșând greve"
+    },
+    {
+      "id": 33,
+      "company": "Telenav",
+      "companyRO": "Telenav",
+      "date": "2025-01-01",
+      "employeesAffected": 170,
+      "location": "Cluj-Napoca",
+      "country": "Romania",
+      "county": "Cluj",
+      "category": "IT",
+      "isPotential": false,
+      "sources": [
+        {
+          "url": "https://cluj24.ro/concedieri-masive-in-it-ul-din-cluj-pleaca-peste-170-de-angajati-de-la-telenav-alte-3-firme-anunta-masuri-similare-174157.html",
+          "name": "Cluj24"
+        }
+      ],
+      "notes": "Massive layoffs in Cluj IT sector; over 170 employees leaving; part of broader wave affecting multiple companies in the region",
+      "notesRO": "Concedieri masive în sectorul IT din Cluj; peste 170 de angajați pleacă; parte dintr-un val mai larg care afectează multiple companii din regiune"
+    },
+    {
+      "id": 34,
+      "company": "Betfair",
+      "companyRO": "Betfair",
+      "date": "2025-01-01",
+      "employeesAffected": 150,
+      "location": "Cluj-Napoca",
+      "country": "Romania",
+      "county": "Cluj",
+      "category": "IT",
+      "isPotential": false,
+      "sources": [
+        {
+          "url": "https://gazetadecluj.ro/concedieri-pe-banda-rulanta-la-betfair-in-cluj/",
+          "name": "Gazeta de Cluj"
+        },
+        {
+          "url": "https://dorusupeala.ro/concedieri-colective-la-betfair-in-cluj-e-doar-primul-val/",
+          "name": "Doru Supeala"
+        }
+      ],
+      "notes": "Rolling layoffs at Betfair Cluj; this is just the first wave; part of ongoing restructuring affecting IT sector in Cluj",
+      "notesRO": "Concedieri pe bandă rulantă la Betfair Cluj; acesta este doar primul val; parte din restructurare în curs care afectează sectorul IT din Cluj"
+    },
+    {
+      "id": 35,
+      "company": "Atos Global Delivery Center",
+      "companyRO": "Atos Global Delivery Center",
+      "date": "2025-01-01",
+      "employeesAffected": 200,
+      "location": "Romania",
+      "country": "Romania",
+      "category": "IT",
+      "isPotential": false,
+      "sources": [
+        {
+          "url": "https://dorusupeala.ro/angajatii-acuza-un-val-de-concedieri-mascate-dublate-de-abuz-psihologic-la-atos-global-delivery-center-romania/",
+          "name": "Doru Supeala"
+        }
+      ],
+      "notes": "Employees accuse a wave of masked layoffs doubled by psychological abuse; allegations of forced resignations and toxic workplace environment",
+      "notesRO": "Angajații acuză un val de concedieri mascate dublate de abuz psihologic; acuzații de demisii forțate și mediu de lucru toxic"
+    },
+    {
+      "id": 36,
+      "company": "Gameloft",
+      "companyRO": "Gameloft",
+      "date": "2025-01-01",
+      "employeesAffected": 200,
+      "location": "Cluj-Napoca",
+      "country": "Romania",
+      "county": "Cluj",
+      "category": "IT",
+      "isPotential": false,
+      "sources": [
+        {
+          "url": "https://dorusupeala.ro/concedieri-in-masa-la-gameloft-200-de-oameni-dati-afara-la-cluj/",
+          "name": "Doru Supeala"
+        }
+      ],
+      "notes": "Mass layoffs at Gameloft Cluj; 200 people laid off; part of restructuring in gaming industry",
+      "notesRO": "Concedieri în masă la Gameloft Cluj; 200 de oameni dați afară; parte din restructurare în industria gaming"
+    },
+    {
+      "id": 37,
+      "company": "NTT Data",
+      "companyRO": "NTT Data",
+      "date": "2025-01-01",
+      "employeesAffected": 300,
+      "location": "Romania",
+      "country": "Romania",
+      "category": "IT",
+      "isPotential": false,
+      "sources": [
+        {
+          "url": "https://dorusupeala.ro/val-de-concedieri-in-masa-la-ntt-data-si-din-nou-la-cognizant-softvision/",
+          "name": "Doru Supeala"
+        },
+        {
+          "url": "https://dorusupeala.ro/situatia-de-la-ntt-data-cateva-marturii-si-opinii-ale-angajatilor/",
+          "name": "Doru Supeala"
+        },
+        {
+          "url": "https://dorusupeala.ro/a-venit-un-raspuns-de-la-ntt-data-de-fapt-de-la-o-agentie-de-pr/",
+          "name": "Doru Supeala"
+        }
+      ],
+      "notes": "Mass layoff wave at NTT Data; employees report testimonies and opinions; PR agency response raises concerns about transparency",
+      "notesRO": "Val de concedieri în masă la NTT Data; angajații raportează mărturii și opinii; răspunsul agenției de PR ridică îngrijorări privind transparența"
+    },
+    {
+      "id": 38,
+      "company": "Cognizant Softvision",
+      "companyRO": "Cognizant Softvision",
+      "date": "2025-01-01",
+      "employeesAffected": 400,
+      "location": "Romania",
+      "country": "Romania",
+      "category": "IT",
+      "isPotential": false,
+      "sources": [
+        {
+          "url": "https://dorusupeala.ro/val-de-concedieri-in-masa-la-ntt-data-si-din-nou-la-cognizant-softvision/",
+          "name": "Doru Supeala"
+        },
+        {
+          "url": "https://dorusupeala.ro/dezastrul-minciunile-si-abuzurile-de-la-cognizant-softvision-noile-marturii-ale-angajatilor/",
+          "name": "Doru Supeala"
+        },
+        {
+          "url": "https://dorusupeala.ro/cognizant-softvision-un-caritas-canceros-al-industriei-de-software-din-romania/",
+          "name": "Doru Supeala"
+        }
+      ],
+      "notes": "Mass layoff wave at Cognizant Softvision again; employees report disaster, lies, and abuses; described as a cancerous carrier in Romania's software industry",
+      "notesRO": "Val de concedieri în masă la Cognizant Softvision din nou; angajații raportează dezastru, minciuni și abuzuri; descris ca un purtător canceros al industriei de software din România"
+    },
+    {
+      "id": 39,
+      "company": "FintechOS",
+      "companyRO": "FintechOS",
+      "date": "2025-01-01",
+      "employeesAffected": 150,
+      "location": "Romania",
+      "country": "Romania",
+      "category": "IT",
+      "isPotential": false,
+      "sources": [
+        {
+          "url": "https://dorusupeala.ro/concedierile-de-la-fintechos-prabusirea-unui-brand-promitator/",
+          "name": "Doru Supeala"
+        }
+      ],
+      "notes": "Layoffs at FintechOS; collapse of a promising brand; part of broader fintech sector challenges",
+      "notesRO": "Concedieri la FintechOS; prăbușirea unui brand promițător; parte din provocările mai largi ale sectorului fintech"
+    },
+    {
+      "id": 40,
+      "company": "MDPI",
+      "companyRO": "MDPI",
+      "date": "2025-01-01",
+      "employeesAffected": 100,
+      "location": "Romania",
+      "country": "Romania",
+      "category": "IT",
+      "isPotential": false,
+      "sources": [
+        {
+          "url": "https://dorusupeala.ro/noi-marturii-din-infernul-mdpi-abuz-psihologic-hartuire-epuizare-comportamente-de-pestera-demisii-fortate-si-micromanagement/",
+          "name": "Doru Supeala"
+        }
+      ],
+      "notes": "New testimonies from MDPI hell; psychological abuse, harassment, exhaustion, cave-like behaviors, forced resignations, and micromanagement",
+      "notesRO": "Noi mărturii din iadul MDPI; abuz psihologic, hărțuire, epuizare, comportamente de peșteră, demisii forțate și micromanagement"
+    },
+    {
+      "id": 42,
+      "company": "Haier Tech SRL",
+      "companyRO": "Haier Tech SRL",
+      "date": "2025-01-15",
+      "employeesAffected": 150,
+      "location": "Prahova",
+      "country": "Romania",
+      "county": "Prahova",
+      "category": "Manufacturing",
+      "isPotential": false,
+      "sources": [
+        {
+          "url": "https://www.romaniajournal.ro/business/layoffs-announced-at-haier-tech-fridge-factory-four-firms-in-prahova/",
+          "name": "Romania Journal"
+        }
+      ],
+      "notes": "Layoffs announced at Haier Tech SRL fridge factory in Prahova county, along with four other firms in the region",
+      "notesRO": "Concedieri anunțate la fabrica de frigidere Haier Tech SRL din județul Prahova, împreună cu alte patru firme din regiune"
+    },
+    {
+      "id": 43,
+      "company": "Schaeffler Romania",
+      "companyRO": "Schaeffler România",
+      "date": "2024-11-01",
+      "employeesAffected": 200,
+      "location": "Brașov",
+      "country": "Romania",
+      "county": "Brașov",
+      "category": "Automotive",
+      "isPotential": false,
+      "sources": [
+        {
+          "url": "https://www.romaniajournal.ro/business/companies/schaeffler-announces-layoffs-at-brasov-factory/",
+          "name": "Romania Journal"
+        }
+      ],
+      "notes": "Schaeffler Romania announced layoffs at its Brașov factory as part of automotive industry restructuring",
+      "notesRO": "Schaeffler România a anunțat concedieri la fabrica sa din Brașov ca parte din restructurarea industriei auto"
+    },
+    {
+      "id": 44,
+      "company": "Textile Factory - Botoșani",
+      "companyRO": "Fabrică Textilă - Botoșani",
+      "date": "2024-07-01",
+      "employeesAffected": 160,
+      "location": "Botoșani",
+      "country": "Romania",
+      "county": "Botoșani",
+      "category": "Textile",
+      "isPotential": false,
+      "sources": [
+        {
+          "url": "https://www.business-humanrights.org/en/latest-news/romania-fourth-garment-factory-in-botasani-to-carry-out-layoffs-laying-off-160-workers/",
+          "name": "Business & Human Rights Resource Centre"
+        }
+      ],
+      "notes": "Textile factory in Botoșani to lay off 160 workers; fourth garment factory in the county to carry out layoffs",
+      "notesRO": "Fabrică textilă din Botoșani va reduce 160 de lucrători; a patra fabrică de confecții din județ care efectuează concedieri"
+    },
+    {
+      "id": 45,
+      "company": "Collective Layoffs - Brașov & Prahova",
+      "companyRO": "Concedieri Colective - Brașov & Prahova",
+      "date": "2025-02-01",
+      "employeesAffected": 1218,
+      "location": "Brașov, Prahova",
+      "country": "Romania",
+      "category": "Multiple",
+      "isPotential": false,
+      "sources": [
+        {
+          "url": "https://lemonews.com/en/article/concedieri-masive-in-romania-mii-de-angajati-afectati-in-diverse-industrii-gp3wxp",
+          "name": "Lemonews"
+        },
+        {
+          "url": "https://stirileprotv.ro/stiri/actualitate/concedieri-colective-brasov-prahova-818-angajati-afectati.html",
+          "name": "Stirile ProTV"
+        }
+      ],
+      "notes": "Mass layoffs in Brașov & Prahova counties affecting over 1,200 employees. Brașov: 818 employees from 7 firms announcing collective layoffs. Prahova: ~400 employees from multiple firms",
+      "notesRO": "Concedieri masive în județele Brașov și Prahova afectând peste 1.200 de angajați. Brașov: 818 angajați din 7 firme care anunță concedieri colective. Prahova: ~400 de angajați din multiple firme"
+    },
+    {
+      "id": 46,
+      "company": "Collective Layoffs - Caraș-Severin",
+      "companyRO": "Concedieri Colective - Caraș-Severin",
+      "date": "2025-05-01",
+      "employeesAffected": 304,
+      "location": "Caraș-Severin",
+      "country": "Romania",
+      "county": "Caraș-Severin",
+      "category": "Multiple",
+      "isPotential": false,
+      "sources": [
+        {
+          "url": "https://www.radioresita.ro/actualitate/rezonanta-locala/concedieri-colective-in-judetul-caras-severin-304-de-angajati-afectati.html",
+          "name": "Radio România Reșița"
+        }
+      ],
+      "notes": "County Caraș-Severin — 3 firms notifying collective layoffs affecting 304 employees",
+      "notesRO": "Județul Caraș-Severin — 3 firme care notifică concedieri colective afectând 304 angajați"
+    },
+    {
+      "id": 47,
+      "company": "Cablaje Factory - Târgu Jiu",
+      "companyRO": "Fabrică Cablaje - Târgu Jiu",
+      "date": "2025-05-01",
+      "employeesAffected": 140,
+      "location": "Târgu Jiu",
+      "country": "Romania",
+      "county": "Gorj",
+      "category": "Manufacturing",
+      "isPotential": false,
+      "sources": [
+        {
+          "url": "https://puterea.ro/stiri/actualitate/concedieri-colective-targu-jiu-140-angajati-afectati.html",
+          "name": "Puterea.ro"
+        }
+      ],
+      "notes": "Municipality of Târgu Jiu (Gorj County) — factory of cablaje (wiring) to lay off ~140 employees",
+      "notesRO": "Municipiul Târgu Jiu (Județul Gorj) — fabrică de cablaje va reduce ~140 de angajați"
+    },
+    {
+      "id": 48,
+      "company": "Chimcomplex",
+      "companyRO": "Chimcomplex",
+      "date": "2025-02-01",
+      "employeesAffected": 260,
+      "location": "Romania",
+      "country": "Romania",
+      "category": "Manufacturing",
+      "isPotential": false,
+      "sources": [
+        {
+          "url": "https://www.bugetul.ro/stiri/actualitate/chimcomplex-anunta-concedieri-260-angajati-afectati.html",
+          "name": "Bugetul.ro"
+        }
+      ],
+      "notes": "Chimcomplex (chemical industry) announced layoffs affecting 260 employees",
+      "notesRO": "Chimcomplex (industria chimică) a anunțat concedieri afectând 260 de angajați"
+    },
+    {
+      "id": 49,
+      "company": "Collective Layoffs - National Aggregate (Jan-Jul 2025)",
+      "companyRO": "Concedieri Colective - Agregat Național (Ian-Iul 2025)",
+      "date": "2025-07-31",
+      "employeesAffected": 11976,
+      "location": "Romania",
+      "country": "Romania",
+      "category": "Multiple",
+      "isPotential": false,
+      "sources": [
+        {
+          "url": "https://mediablitz.ro/stiri/actualitate/concedieri-colective-romania-11976-angajati-ianuarie-iulie-2025.html",
+          "name": "Mediablitz"
+        }
+      ],
+      "notes": "National aggregate: 77 employers notified collective layoffs from January to July 2025, affecting 11,976 employees",
+      "notesRO": "Agregat național: 77 angajatori au notificat concedieri colective din ianuarie până în iulie 2025, afectând 11.976 de angajați"
+    },
+    {
+      "id": 50,
+      "company": "Collective Layoffs - National (Jan-Feb 2025)",
+      "companyRO": "Concedieri Colective - Național (Ian-Feb 2025)",
+      "date": "2025-02-17",
+      "employeesAffected": 1580,
+      "location": "Romania",
+      "country": "Romania",
+      "category": "Multiple",
+      "isPotential": false,
+      "sources": [
+        {
+          "url": "https://www.wall-street.ro/articol/English-Version/64281/more-than-250-romanian-companies-will-layoff-23-976-employees-by-october-official-says.html",
+          "name": "Wall-Street"
+        }
+      ],
+      "notes": "National data for 1 Jan–17 Feb 2025 on collective layoffs by county. Counties showing greatest number: București 221, Arad 183, Cluj 142",
+      "notesRO": "Date naționale pentru 1 ian–17 feb 2025 privind concedierile colective pe județe. Județe cu cel mai mare număr: București 221, Arad 183, Cluj 142"
+    }
+  ]
+}

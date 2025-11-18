@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- SEO Meta Tags -->
+    <title>Concedieri Romania | Monitor Concedieri în România</title>
+    <meta name="description" content="Monitorizează concedierile în România. Date complete despre companiile care au efectuat concedieri, numărul de angajați afectați, categorii, locații și statistici detaliate.">
+    <meta name="keywords" content="concedieri romania, layoffs romania, concedieri colective, angajați afectați, restructurări, companii românia">
+    <meta name="author" content="Concedieri Romania">
+    <meta name="robots" content="index, follow">
+    <meta name="language" content="Romanian, English">
+    <link rel="canonical" href="https://concedieri.com">
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://concedieri.com">
+    <meta property="og:title" content="Concedieri Romania | Monitor Concedieri în România">
+    <meta property="og:description" content="Monitorizează concedierile în România. Date complete despre companiile care au efectuat concedieri, numărul de angajați afectați, categorii, locații și statistici detaliate.">
+    <meta property="og:image" content="https://concedieri.com/og-image.png">
+    <meta property="og:locale" content="ro_RO">
+    <meta property="og:locale:alternate" content="en_US">
+    <meta property="og:site_name" content="Concedieri Romania">
+    
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:url" content="https://concedieri.com">
+    <meta name="twitter:title" content="Concedieri Romania | Monitor Concedieri în România">
+    <meta name="twitter:description" content="Monitorizează concedierile în România. Date complete despre companiile care au efectuat concedieri, numărul de angajați afectați, categorii, locații și statistici detaliate.">
+    <meta name="twitter:image" content="https://concedieri.com/og-image.png">
+    
+    <!-- Additional SEO -->
+    <meta name="theme-color" content="#6366f1">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="Concedieri Romania">
+    
+    <!-- Tailwind CSS - Production build or CDN fallback -->
+    <link rel="stylesheet" href="css/tailwind.css" id="tailwind-css">
+    <script>
+        // Fallback to CDN if built CSS doesn't exist (for development without build)
+        (function() {
+            const link = document.getElementById('tailwind-css');
+            if (link && typeof fetch !== 'undefined') {
+                fetch('css/tailwind.css', { method: 'HEAD' })
+                    .catch(() => {
+                        // Built CSS doesn't exist, use CDN
+                        link.remove();
+                        const script = document.createElement('script');
+                        script.src = 'https://cdn.tailwindcss.com';
+                        script.onload = () => console.warn('Using Tailwind CDN - run "npm run build" for production');
+                        document.head.appendChild(script);
+                    });
+            }
+        })();
+    </script>
+    
+    <!-- Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+    
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="css/styles.css">
+    
+    <!-- Favicon -->
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>👔</text></svg>">
+    
+    <!-- Structured Data (JSON-LD) -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": "Concedieri Romania",
+      "alternateName": "Layoffs Romania",
+      "url": "https://concedieri.com",
+      "description": "Monitorizează concedierile în România. Date complete despre companiile care au efectuat concedieri, numărul de angajați afectați, categorii, locații și statistici detaliate.",
+      "inLanguage": ["ro", "en"],
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://concedieri.com?search={search_term_string}",
+        "query-input": "required name=search_term_string"
+      }
+    }
+    </script>
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "name": "Concedieri Romania",
+      "url": "https://concedieri.com",
+      "logo": "https://concedieri.com/og-image.png",
+      "description": "Platformă pentru monitorizarea concedierilor în România"
+    }
+    </script>
+</head>
+<body class="min-h-screen bg-gradient-to-br from-slate-900 via-purple-900 to-slate-900">
+    
+    <!-- Navigation -->
+    <nav class="glass-nav fixed top-0 left-0 right-0 z-50 backdrop-blur-xl bg-white/10 border-b border-white/20">
+        <div class="container mx-auto px-4 sm:px-6 py-3 sm:py-4 flex items-center justify-between">
+            <div class="flex items-center space-x-2 sm:space-x-3">
+                <div class="w-8 h-8 sm:w-10 sm:h-10 rounded-lg bg-gradient-to-br from-blue-500 to-purple-600 flex items-center justify-center">
+                    <span class="text-white font-bold text-sm sm:text-xl">👔</span>
+                </div>
+                <h1 class="text-lg sm:text-2xl font-bold text-white" data-i18n="title">Concedieri Romania</h1>
+            </div>
+            <div class="flex items-center space-x-3 sm:space-x-5">
+                <!-- Compact Stats -->
+                <div class="flex items-center gap-3 sm:gap-4 text-sm sm:text-base">
+                    <div class="flex items-center gap-2 px-2.5 sm:px-3 py-1 sm:py-1.5 rounded-lg bg-white/10">
+                        <span class="text-base sm:text-lg">📉</span>
+                        <span class="text-white/90 font-semibold number-counter" id="totalConfirmedNav">0</span>
+                    </div>
+                    <div class="flex items-center gap-2 px-2.5 sm:px-3 py-1 sm:py-1.5 rounded-lg bg-white/10">
+                        <span class="text-base sm:text-lg">🔔</span>
+                        <span class="text-purple-300 font-semibold number-counter" id="totalPotentialNav">0</span>
+                    </div>
+                </div>
+                <button id="langToggle" class="glass-btn px-3 sm:px-5 py-1.5 sm:py-2 rounded-lg text-white hover:bg-white/20 transition-all duration-300 flex items-center space-x-2 sm:space-x-3 text-sm sm:text-base">
+                    <span id="langFlag" class="text-lg sm:text-2xl">🇷🇴</span>
+                    <span id="langText" class="hidden sm:inline">RO</span>
+                </button>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Main Content - Dashboard Layout -->
+    <main class="pt-24 sm:pt-28 pb-8 sm:pb-12 px-4 sm:px-6">
+        <div class="container mx-auto max-w-7xl">
+            
+            <!-- Quick Filters Bar -->
+            <section class="mb-6">
+                <div class="glass-card p-4 rounded-xl">
+                    <div class="flex flex-wrap items-center gap-3">
+                        <input 
+                            type="text" 
+                            id="searchInput" 
+                            placeholder="Search..." 
+                            data-i18n-placeholder="searchPlaceholder"
+                            class="flex-1 min-w-[200px] px-4 py-2.5 rounded-lg bg-white/10 border border-white/20 text-white text-sm placeholder-white/50 focus:outline-none focus:ring-2 focus:ring-purple-500 focus:border-transparent backdrop-blur-sm"
+                        >
+                        <div class="flex items-center gap-3 flex-wrap">
+                            <select id="countryFilter" class="px-4 py-2.5 rounded-lg bg-white/10 border border-white/20 text-white text-sm focus:outline-none focus:ring-2 focus:ring-purple-500 backdrop-blur-sm min-w-[140px]">
+                                <option value="" data-i18n="allCountries">All Countries</option>
+                                <option value="Romania">Romania</option>
+                            </select>
+                            <select id="locationFilter" class="px-4 py-2.5 rounded-lg bg-white/10 border border-white/20 text-white text-sm focus:outline-none focus:ring-2 focus:ring-purple-500 backdrop-blur-sm min-w-[140px]">
+                                <option value="" data-i18n="allLocations">All Locations</option>
+                            </select>
+                            <select id="dateFilter" class="px-4 py-2.5 rounded-lg bg-white/10 border border-white/20 text-white text-sm focus:outline-none focus:ring-2 focus:ring-purple-500 backdrop-blur-sm min-w-[140px]">
+                                <option value="" data-i18n="allDates">All Dates</option>
+                                <option value="2025">2025</option>
+                                <option value="2024">2024</option>
+                                <option value="2023">2023</option>
+                                <option value="2022">2022</option>
+                                <option value="2021">2021</option>
+                                <option value="2020">2020</option>
+                            </select>
+                            <select id="categoryFilter" class="px-4 py-2.5 rounded-lg bg-white/10 border border-white/20 text-white text-sm focus:outline-none focus:ring-2 focus:ring-purple-500 backdrop-blur-sm min-w-[140px]">
+                                <option value="" data-i18n="allCategories">All Categories</option>
+                                <option value="IT">IT</option>
+                                <option value="Automotive">Automotive</option>
+                                <option value="Manufacturing">Manufacturing</option>
+                                <option value="Energy">Energy</option>
+                                <option value="Aviation">Aviation</option>
+                                <option value="Textile">Textile</option>
+                                <option value="Construction">Construction</option>
+                                <option value="Gov">Gov</option>
+                                <option value="Multiple">Multiple</option>
+                            </select>
+                            <select id="compensationFilter" class="px-4 py-2.5 rounded-lg bg-white/10 border border-white/20 text-white text-sm focus:outline-none focus:ring-2 focus:ring-purple-500 backdrop-blur-sm min-w-[150px]">
+                                <option value="" data-i18n="allCompensation">All Compensation</option>
+                                <option value="with" data-i18n="hasCompensation">With Compensation</option>
+                                <option value="without" data-i18n="noCompensation">No Compensation</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Charts Section - Dashboard Style -->
+            <section class="mb-6 grid grid-cols-1 lg:grid-cols-2 gap-4">
+                <!-- Timeline Chart -->
+                <div class="glass-card p-4 rounded-xl">
+                    <div class="flex items-center justify-between mb-4">
+                        <h3 class="text-lg font-semibold text-white" data-i18n="timelineChart">Layoffs Over Time</h3>
+                        <button id="timelineToggle" class="glass-btn px-3 py-1.5 rounded-lg text-white hover:bg-white/20 transition-all text-xs flex items-center gap-1.5" data-view="months">
+                            <span id="timelineToggleText" data-i18n="viewByYears">View by Years</span>
+                        </button>
+                    </div>
+                    <div style="height: 192px; position: relative;">
+                        <canvas id="timelineChart"></canvas>
+                    </div>
+                </div>
+                
+                <!-- Company Chart -->
+                <div class="glass-card p-4 rounded-xl">
+                    <div class="flex flex-col sm:flex-row items-start sm:items-center justify-between mb-4 gap-3">
+                        <h3 class="text-lg font-semibold text-white" id="chartTitle" data-i18n="yearlyStats">Angajați Români pe Ani</h3>
+                        <div class="flex items-center gap-2 flex-wrap">
+                            <button id="chartViewToggle" class="glass-btn px-3 py-1.5 rounded-lg text-white hover:bg-white/20 transition-all text-xs flex items-center gap-1.5" data-view="year">
+                                <span id="chartViewToggleText" data-i18n="viewByYear">Pe Ani</span>
+                            </button>
+                            <button id="chartViewToggle2" class="glass-btn px-3 py-1.5 rounded-lg text-white/70 hover:bg-white/20 hover:text-white transition-all text-xs flex items-center gap-1.5" data-view="category">
+                                <span data-i18n="viewByCategory">Pe Categorie</span>
+                            </button>
+                            <button id="chartViewToggle3" class="glass-btn px-3 py-1.5 rounded-lg text-white/70 hover:bg-white/20 hover:text-white transition-all text-xs flex items-center gap-1.5" data-view="location">
+                                <span data-i18n="viewByLocation">Pe Locație</span>
+                            </button>
+                        </div>
+                    </div>
+                    <div style="height: 192px; position: relative;">
+                        <canvas id="companyChart"></canvas>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Company Cards Grid -->
+            <section class="mb-6">
+                <div class="flex flex-col sm:flex-row items-start sm:items-center justify-between mb-6 gap-3">
+                    <h2 class="text-2xl sm:text-3xl font-bold text-white" data-i18n="companiesTitle">Recent Layoffs</h2>
+                    <div class="flex items-center gap-3">
+                        <div class="text-white/70 text-sm whitespace-nowrap" id="resultsCount"></div>
+                        <button id="viewToggle" class="glass-btn px-4 py-2.5 rounded-lg text-white hover:bg-white/20 transition-all text-sm flex items-center gap-2" data-view="grid">
+                            <span id="viewToggleIcon" class="text-lg">⊞</span>
+                            <span id="viewToggleText" class="hidden sm:inline" data-i18n="gridView">Grid</span>
+                        </button>
+                    </div>
+                </div>
+                <div id="companyGrid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 xl:grid-cols-5 2xl:grid-cols-6 gap-3">
+                    <!-- Company cards will be inserted here -->
+                </div>
+                <div id="companyList" class="hidden space-y-3">
+                    <!-- List items will be inserted here -->
+                </div>
+            </section>
+
+        </div>
+    </main>
+
+    <!-- Company Detail Modal -->
+    <div id="companyModal" class="fixed inset-0 z-50 hidden items-center justify-center p-4 sm:p-6">
+        <div class="absolute inset-0 bg-black/50 backdrop-blur-sm" id="modalOverlay"></div>
+        <div class="glass-card p-4 sm:p-6 md:p-8 rounded-2xl sm:rounded-3xl max-w-2xl w-full relative z-10 max-h-[90vh] overflow-y-auto">
+            <button id="closeModal" class="absolute top-3 right-3 sm:top-4 sm:right-4 text-white/70 hover:text-white transition-colors p-2 -m-2">
+                <svg class="w-5 h-5 sm:w-6 sm:h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
+                </svg>
+            </button>
+            <div id="modalContent">
+                <!-- Modal content will be inserted here -->
+            </div>
+        </div>
+    </div>
+
+    <!-- Scripts -->
+    <!-- Embedded data (for local file:// support) -->
+    <script src="js/data.js"></script>
+    <script src="js/locations.js"></script>
+    <script src="js/language.js"></script>
+    <script src="js/charts.js"></script>
+    <script src="js/main.js"></script>
+</body>
+</html>
+

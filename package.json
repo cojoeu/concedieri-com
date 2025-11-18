@@ -1,0 +1,21 @@
+{
+  "name": "layoff-tracker",
+  "version": "1.0.0",
+  "description": "Corporate layoff tracking dashboard",
+  "scripts": {
+    "dev": "node server.js",
+    "build": "npm run build:css && npm run build:data",
+    "build:css": "tailwindcss -i ./src/input.css -o ./css/tailwind.css --minify",
+    "build:data": "node scripts/embed-data.js",
+    "watch": "tailwindcss -i ./src/input.css -o ./css/tailwind.css --watch",
+    "deploy": "npm run build && npx wrangler pages deploy . --project-name=concedieri"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "tailwindcss": "^3.4.1",
+    "wrangler": "^3.0.0"
+  }
+}
+

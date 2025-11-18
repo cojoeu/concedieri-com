@@ -1,0 +1,4 @@
+# Cloudflare Pages configuration
+name = "concedieri"
+pages_build_output_dir = "."
+
